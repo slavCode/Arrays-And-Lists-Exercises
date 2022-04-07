@@ -4,10 +4,10 @@
   <PropertyGroup>
     <Configuration Condition=" '$(Configuration)' == '' ">Debug</Configuration>
     <Platform Condition=" '$(Platform)' == '' ">AnyCPU</Platform>
-    <ProjectGuid>{E6F16DF5-CC6A-4215-8A61-49182EDD1B27}</ProjectGuid>
+    <ProjectGuid>{C50F990A-B6A2-490D-8170-3DA6E18B3CBB}</ProjectGuid>
     <OutputType>Exe</OutputType>
-    <RootNamespace>RotateaAndSum</RootNamespace>
-    <AssemblyName>RotateaAndSum</AssemblyName>
+    <RootNamespace>FoldAndSum</RootNamespace>
+    <AssemblyName>FoldAndSum</AssemblyName>
     <TargetFrameworkVersion>v4.7.2</TargetFrameworkVersion>
     <FileAlignment>512</FileAlignment>
     <AutoGenerateBindingRedirects>true</AutoGenerateBindingRedirects>

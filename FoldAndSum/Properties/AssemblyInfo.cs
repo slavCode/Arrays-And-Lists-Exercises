@@ -5,11 +5,11 @@ using System.Runtime.InteropServices;
 // General Information about an assembly is controlled through the following
 // set of attributes. Change these attribute values to modify the information
 // associated with an assembly.
-[assembly: AssemblyTitle("RotateaAndSum")]
+[assembly: AssemblyTitle("FoldAndSum")]
 [assembly: AssemblyDescription("")]
 [assembly: AssemblyConfiguration("")]
 [assembly: AssemblyCompany("HP Inc.")]
-[assembly: AssemblyProduct("RotateaAndSum")]
+[assembly: AssemblyProduct("FoldAndSum")]
 [assembly: AssemblyCopyright("Copyright © HP Inc. 2022")]
 [assembly: AssemblyTrademark("")]
 [assembly: AssemblyCulture("")]
@@ -20,7 +20,7 @@ using System.Runtime.InteropServices;
 [assembly: ComVisible(false)]
 
 // The following GUID is for the ID of the typelib if this project is exposed to COM
-[assembly: Guid("e6f16df5-cc6a-4215-8a61-49182edd1b27")]
+[assembly: Guid("c50f990a-b6a2-490d-8170-3da6e18b3cbb")]
 
 // Version information for an assembly consists of the following four values:
 //
