@@ -21,6 +21,8 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "MostFrequentNumber", "MostF
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "IndexOfLetters", "IndexOfLetters\IndexOfLetters.csproj", "{5DA10E6B-8274-4A52-93B7-DEDC499C08B2}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "PairsByDifference", "PairsByDifference\PairsByDifference.csproj", "{4ED83366-46B4-4D15-8656-2360969ECDB1}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -63,6 +65,10 @@ Global
 		{5DA10E6B-8274-4A52-93B7-DEDC499C08B2}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{5DA10E6B-8274-4A52-93B7-DEDC499C08B2}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{5DA10E6B-8274-4A52-93B7-DEDC499C08B2}.Release|Any CPU.Build.0 = Release|Any CPU
+		{4ED83366-46B4-4D15-8656-2360969ECDB1}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{4ED83366-46B4-4D15-8656-2360969ECDB1}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{4ED83366-46B4-4D15-8656-2360969ECDB1}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{4ED83366-46B4-4D15-8656-2360969ECDB1}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
